@@ -1,6 +1,6 @@
 //Singleton--->here object is contructed by constructor mehod-->constructor method (object.create)
 
-//Object Literals
+//Object Literals below
 
 const User={
     name:"Rohit",//also we can pass key eg 0 :"rohit"
